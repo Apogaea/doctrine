@@ -1,9 +1,0 @@
-Umm... I like to use tabs and I like opening curly braces on the same line.
-
-I used to use 2 spaces, but that doesn't work as well in many IDEs these days.
-
-But Athur needs to edit this document and lay a foundation.
-
-Ok thanks, goodbye.
-
-
