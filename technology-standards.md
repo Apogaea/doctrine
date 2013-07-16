@@ -1,15 +1,3 @@
-#Existing
-
-### Primary Website 
-* http://apogaea.com
-* Platform: [Wordpress](http://wordpress.org/)
-* Stack: Linux, Apache2, MySQL, PHP
-
-### Volunteer Database Website 
-* http://volunteer.apogaea.com
-* Platform: Custom
-* Stack: Linux, Apache2, MySQL, PHP
-
 
 
 # Potential Tech
@@ -26,3 +14,18 @@
   * Because it makes javascript work easier. [koda]
   * Maybe [JQuery UI](http://jqueryui.com/) should be standard also?
   
+
+
+
+#Existing
+
+### Primary Website 
+* http://apogaea.com
+* Platform: [Wordpress](http://wordpress.org/)
+* Stack: Linux, Apache2, MySQL, PHP
+
+### Volunteer Database Website 
+* http://volunteer.apogaea.com
+* Platform: Custom
+* Stack: Linux, Apache2, MySQL, PHP
+
