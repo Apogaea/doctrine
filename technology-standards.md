@@ -66,3 +66,22 @@
 - Platform: Custom
 - Stack: Linux, Apache2, MySQL, PHP
 
+
+#Deployment
+
+I am very **Pro** using something like Heroku.  - *Piper (aaronmerriam)*
+
+- Heroku
+  - Pros
+    - Designed around modern web development. See [12 Factor App](http://12factor.net/).
+    - Collaborative by nature.
+    - Not prohibitively expensive.  Most applications should be able to run
+      under the cost of a single database ($9 per month).
+  - Cons
+    - Likely more expensive than the current bill from **dreamhost**.
+    - Already in place.
+- Dreamhost
+  - Pros
+    - Cheap
+  - Cons
+    - Hard to deploy much beyond LAMP in a manner that encourages collaboration.
